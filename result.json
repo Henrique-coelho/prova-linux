@@ -1,0 +1,278 @@
+[
+    [
+        1,
+        14734876,
+        "https://github.com/deeplearning4j/deeplearning4j",
+        "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation."
+    ],
+    [
+        3,
+        89322848,
+        "https://github.com/Angel-ML/angel",
+        "A Flexible and Powerful Parameter Server for large-scale machine learning"
+    ],
+    [
+        4,
+        26921116,
+        "https://github.com/haifengl/smile",
+        "Statistical Machine Intelligence & Learning Engine"
+    ],
+    [
+        6,
+        60377070,
+        "https://github.com/vespa-engine/vespa",
+        "AI + Data, online. https://vespa.ai"
+    ],
+    [
+        8,
+        218396611,
+        "https://github.com/deepjavalibrary/djl",
+        "An Engine-Agnostic Deep Learning Framework in Java"
+    ],
+    [
+        9,
+        150938406,
+        "https://github.com/alibaba/Alink",
+        "Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. "
+    ],
+    [
+        10,
+        48880766,
+        "https://github.com/jtablesaw/tablesaw",
+        "Java dataframe and visualization library"
+    ],
+    [
+        11,
+        1370858,
+        "https://github.com/apache/incubator-kie-optaplanner",
+        "AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems."
+    ],
+    [
+        12,
+        5797013,
+        "https://github.com/kermitt2/grobid",
+        "A machine learning software for extracting information from scholarly documents"
+    ],
+    [
+        13,
+        41310523,
+        "https://github.com/deeplearning4j/deeplearning4j-examples",
+        "Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)"
+    ],
+    [
+        14,
+        213321771,
+        "https://github.com/alldatacenter/alldata",
+        "\ud83d\udd25\ud83d\udd25 AllData\u5927\u6570\u636e\u4ea7\u54c1\u662f\u53ef\u5b9a\u4e49\u6570\u636e\u4e2d\u53f0\uff0c\u4ee5\u6570\u636e\u5e73\u53f0\u4e3a\u5e95\u5ea7\uff0c\u4ee5\u6570\u636e\u4e2d\u53f0\u4e3a\u6865\u6881\uff0c\u4ee5\u673a\u5668\u5b66\u4e60\u5e73\u53f0\u4e3a\u4e2d\u5c42\u6846\u67b6\uff0c\u4ee5\u5927\u6a21\u578b\u5e94\u7528\u4e3a\u4e0a\u6e38\u4ea7\u54c1\uff0c\u63d0\u4f9b\u5168\u94fe\u8def\u6570\u5b57\u5316\u89e3\u51b3\u65b9\u6848\u3002\u5168\u65b0\u4f1a\u5458\u5546\u4e1a\u7248 X \u5fae\u4fe1\u7fa4\uff1ahttps://docs.qq.com/doc/DVHlkSEtvVXVCdEFo"
+    ],
+    [
+        16,
+        87506995,
+        "https://github.com/ICT-BDA/EasyML",
+        "Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks."
+    ],
+    [
+        17,
+        22269384,
+        "https://github.com/OryxProject/oryx",
+        "Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning"
+    ],
+    [
+        18,
+        71305435,
+        "https://github.com/VertaAI/modeldb",
+        "Open Source ML Model Versioning, Metadata, and Experiment Management"
+    ],
+    [
+        19,
+        30649762,
+        "https://github.com/SeldonIO/seldon-server",
+        "Machine Learning Platform and Recommendation Engine built on Kubernetes"
+    ],
+    [
+        20,
+        77308564,
+        "https://github.com/o19s/elasticsearch-learning-to-rank",
+        "Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch"
+    ],
+    [
+        21,
+        84030164,
+        "https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample",
+        "Android TensorFlow MachineLearning Example (Building TensorFlow for Android)"
+    ],
+    [
+        23,
+        272672735,
+        "https://github.com/oracle/tribuo",
+        "Tribuo - A Java machine learning library"
+    ],
+    [
+        24,
+        23766587,
+        "https://github.com/libgdx/gdx-ai",
+        "Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines"
+    ],
+    [
+        26,
+        25405542,
+        "https://github.com/datumbox/datumbox-framework",
+        "Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications."
+    ],
+    [
+        28,
+        66772740,
+        "https://github.com/qupath/qupath",
+        "QuPath - Bioimage analysis & digital pathology"
+    ],
+    [
+        29,
+        353992692,
+        "https://github.com/jenly1314/MLKit",
+        "\ud83c\udf1d  MLKit\u662f\u4e00\u4e2a\u5f3a\u5927\u6613\u7528\u7684\u5de5\u5177\u5305\u3002\u901a\u8fc7ML Kit\u60a8\u53ef\u4ee5\u5f88\u8f7b\u677e\u7684\u5b9e\u73b0\u6587\u5b57\u8bc6\u522b\u3001\u6761\u7801\u8bc6\u522b\u3001\u56fe\u50cf\u6807\u8bb0\u3001\u4eba\u8138\u68c0\u6d4b\u3001\u5bf9\u8c61\u68c0\u6d4b\u7b49\u529f\u80fd\u3002"
+    ],
+    [
+        30,
+        100483465,
+        "https://github.com/kaiwaehner/kafka-streams-machine-learning-examples",
+        "This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leveraging Apache Kafka and its Streams API. Models are built with Python, H2O, TensorFlow, Keras, DeepLearning4 and other technologies."
+    ],
+    [
+        31,
+        15365897,
+        "https://github.com/jenetics/jenetics",
+        "Jenetics - Genetic Algorithm, Genetic Programming, Grammatical Evolution, Evolutionary Algorithm, and Multi-objective Optimization"
+    ],
+    [
+        32,
+        32772468,
+        "https://github.com/EdwardRaff/JSAT",
+        "Java Statistical Analysis Tool, a Java library for Machine Learning "
+    ],
+    [
+        33,
+        31661940,
+        "https://github.com/elki-project/elki",
+        "ELKI Data Mining Toolkit "
+    ],
+    [
+        34,
+        125595640,
+        "https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example",
+        "Android TensorFlow Lite Machine Learning Example"
+    ],
+    [
+        35,
+        124719143,
+        "https://github.com/yuxitong/TensorFlowAndroidDemo",
+        "TensorFlow android demo \u8f66\u9053\u7ebf \u8f66\u8f86 \u4eba\u8138 \u52a8\u4f5c \u9aa8\u67b6 \u8bc6\u522b \u68c0\u6d4b \u62bd\u70df \u6253\u7535\u8bdd \u95ed\u773c \u7741\u773c"
+    ],
+    [
+        36,
+        148223447,
+        "https://github.com/tony-framework/TonY",
+        "TonY is a framework to natively run deep learning frameworks on Apache Hadoop."
+    ],
+    [
+        37,
+        209459144,
+        "https://github.com/apache/submarine",
+        "Submarine is Cloud Native Machine Learning Platform."
+    ],
+    [
+        38,
+        620363420,
+        "https://github.com/TimefoldAI/timefold-solver",
+        "The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems"
+    ],
+    [
+        39,
+        194897,
+        "https://github.com/jblas-project/jblas",
+        "Linear Algebra for Java"
+    ],
+    [
+        40,
+        19367053,
+        "https://github.com/Waikato/moa",
+        "MOA is an open source framework for Big Data stream mining. It includes a collection of machine learning algorithms (classification, regression, clustering, outlier detection, concept drift detection and recommender systems) and tools for evaluation."
+    ],
+    [
+        41,
+        43274159,
+        "https://github.com/BotLibre/BotLibre",
+        "An open platform for artificial intelligence, chat bots, virtual agents, social media automation, and live chat automation."
+    ],
+    [
+        42,
+        84253677,
+        "https://github.com/knime/knime-core",
+        "KNIME Analytics Platform"
+    ],
+    [
+        44,
+        85210314,
+        "https://github.com/amitshekhariitbhu/AndroidTensorFlowMNISTExample",
+        "Android TensorFlow MachineLearning MNIST Example (Building Model with TensorFlow for Android)"
+    ],
+    [
+        45,
+        13365821,
+        "https://github.com/optimatika/ojAlgo",
+        "oj! Algorithms"
+    ],
+    [
+        46,
+        69562331,
+        "https://github.com/ls1intum/Artemis",
+        "Artemis - Interactive Learning with Automated Feedback"
+    ],
+    [
+        47,
+        25651414,
+        "https://github.com/BlinkID/blinkid-android",
+        "Everything you need to add AI-driven ID scanning into your native Android app."
+    ],
+    [
+        48,
+        249609964,
+        "https://github.com/wuba/dl_inference",
+        "\u901a\u7528\u6df1\u5ea6\u5b66\u4e60\u63a8\u7406\u5de5\u5177\uff0c\u53ef\u5728\u751f\u4ea7\u73af\u5883\u4e2d\u5feb\u901f\u4e0a\u7ebf\u7531TensorFlow\u3001PyTorch\u3001Caffe\u6846\u67b6\u8bad\u7ec3\u51fa\u7684\u6df1\u5ea6\u5b66\u4e60\u6a21\u578b\u3002"
+    ],
+    [
+        49,
+        65136727,
+        "https://github.com/hanuor/onyx",
+        "An android library that uses technologies like artificial Intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app."
+    ],
+    [
+        50,
+        265994353,
+        "https://github.com/HMS-Core/hms-ml-demo",
+        "HMS ML Demo provides an example of integrating Huawei ML Kit service into applications. This example demonstrates how to integrate services provided by ML Kit, such as face detection, text recognition, image segmentation, asr, and tts. "
+    ],
+    [
+        51,
+        91575491,
+        "https://github.com/kanyun-inc/ytk-learn",
+        "Ytk-learn is a distributed machine learning library which implements most of popular machine learning algorithms(GBDT, GBRT, Mixture Logistic Regression, Gradient Boosting Soft Tree, Factorization Machines, Field-aware Factorization Machines, Logistic Regression, Softmax)."
+    ],
+    [
+        52,
+        45342258,
+        "https://github.com/komiya-atsushi/xgboost-predictor-java",
+        "Pure Java implementation of XGBoost predictor for online prediction tasks."
+    ],
+    [
+        53,
+        56810670,
+        "https://github.com/graphaware/neo4j-nlp",
+        "NLP Capabilities in Neo4j"
+    ],
+    [
+        56,
+        75713433,
+        "https://github.com/wepe/tgboost",
+        "Tiny Gradient Boosting Tree"
+    ]
+]
